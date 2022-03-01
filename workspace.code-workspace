@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "parallel_web_crawler_using_channels"
+		},
+		{
+			"path": "parallel_web_crawler_using_classic_locks"
+		}
+	],
+	"settings": {}
+}
